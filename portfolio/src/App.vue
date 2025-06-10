@@ -1,8 +1,7 @@
-<script setup>
-</script>
-
 <template>
+  <Main/>
 </template>
 
-<style scoped>
-</style>
+<script setup>
+import Main from './views/Main.vue';
+</script>
